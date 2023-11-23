@@ -1,6 +1,6 @@
 
 //jquery css manipulation
-$('.section-bg1').css('filter', 'brightness(70%)');
+$('.section-bg1').css('filter', 'brightness(80%)');
 
 // navbar
 const navbar = document.querySelector('.navbar');

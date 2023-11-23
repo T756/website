@@ -243,17 +243,12 @@ body{
   color: black;
 }
 
-.btn.btn-primary{
 
-}
-
-/* Add a light grey background on mouse-over */
 .btn:hover {
   background-color: #ccc;
   color: black;
 }
 
-/* Add a dark background to the active button */
 .btn.active {
   background-color: #1e1e1e;
   color: white;
@@ -416,7 +411,6 @@ body{
     height: 100%;
     background: white;
     margin: auto;
-    margin-right:
 }
 
 .collage-img{
